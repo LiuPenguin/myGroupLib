@@ -1,0 +1,6 @@
+framework module myGroupLib {
+  umbrella header "myGroupLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

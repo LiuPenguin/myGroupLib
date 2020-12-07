@@ -1,0 +1,16 @@
+PODS:
+  - myGroupLib (0.0.1)
+
+DEPENDENCIES:
+  - myGroupLib (from `../`)
+
+EXTERNAL SOURCES:
+  myGroupLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  myGroupLib: 50f45e547c0f4112b460c745ae6ac610eb142d43
+
+PODFILE CHECKSUM: c6ef05f10ec918754551ae361b88662679f09766
+
+COCOAPODS: 1.10.0
